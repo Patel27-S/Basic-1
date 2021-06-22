@@ -1,3 +1,3 @@
 # Basic-1
 
-This repository contains some basic coding programs. 
+Python Programs - 1 
