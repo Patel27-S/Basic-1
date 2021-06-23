@@ -31,5 +31,4 @@ def even_num_list(List):
 
 # Testing of the above function :-
 
-
 even_num_list([1,2,3,4,5,'kskdk'])
