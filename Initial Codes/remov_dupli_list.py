@@ -1,5 +1,5 @@
 '''
-The function below removes the duplicate elements from a 
+The function below removes the duplicate elements from a
 list and returns a list which has unique value of elements.
 '''
 
